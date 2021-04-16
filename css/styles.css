@@ -59,13 +59,75 @@
 	position: absolute;
 	display: flex;
 }
-
 .container-2 {
 	width: 1280px;
 	height: 601.44px;
-	background-color: red;
-	border: solid;
+	background: blue;
+
 }
+
+
+
+
+
+.container-2-1 {
+	width: 1290px;
+	height: 601.44px;
+	display: flex;
+	flex-direction: row;
+	position: relative;
+	
+	
+
+	
+}
+.left-box {
+	width: 640px;
+	height: 601.44px;
+	position: absolute;
+	
+
+}
+
+.right-box {
+	width: 640px;
+	height: 601.44px;
+	position: absolute;
+	
+
+
+}
+.text-2 {
+	width: 468px;
+	height: 186px;
+	font-size: 50px;
+	position: absolute;
+	text-align: center;
+
+}
+
+
+
+
+
+.text-3 {
+	width: 457px; 
+	height: 128px;
+	font-size: 16px;
+	padding-top: 90px;
+	padding-left: 86px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
