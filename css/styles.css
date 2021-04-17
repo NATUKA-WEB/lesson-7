@@ -62,12 +62,7 @@
 .container-2 {
 	width: 1280px;
 	height: 601.44px;
-	background: blue;
-
 }
-
-
-
 
 
 .container-2-1 {
@@ -76,10 +71,7 @@
 	display: flex;
 	flex-direction: row;
 	position: relative;
-	
-	
-
-	
+		
 }
 .left-box {
 	width: 640px;
@@ -107,9 +99,6 @@
 }
 
 
-
-
-
 .text-3 {
 	width: 457px; 
 	height: 128px;
@@ -118,7 +107,13 @@
 	padding-left: 86px;
 }
 
-
+.flex-contrainer {
+	align-items: stretch;
+	align-content: space-between;
+	position: relative;
+	display: flex;
+	
+}
 
 
 
